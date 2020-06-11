@@ -1,2 +1,2 @@
-# bignews50
-大事件项目wyh
+# bigNews50
+大事件项目50
